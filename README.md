@@ -59,14 +59,11 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
-
-
+![image](https://github.com/swethaselvarajm/Bill-of-Materials-for-PCB-Design/assets/119525603/13264992-e769-47f0-9da7-8e1b90435154)
 
 # Output
 
-
-
-
+![image](https://github.com/swethaselvarajm/Bill-of-Materials-for-PCB-Design/assets/119525603/270c8574-c9b6-4024-b499-e4a8420f742c)
 
 # Result 
 Thus the bill of materials is prepared for the given PCB circuit.
